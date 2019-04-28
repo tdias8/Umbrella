@@ -1,0 +1,93 @@
+body{
+	position: relative;
+}
+nav {
+	background-color:#000000;
+	font-size: 15px;
+	color:#CFCFCF;
+}
+#home {
+	background-color: #000000;
+}
+
+.jumbotron
+{
+background-image:url('http://residentevil.com.br/wp-content/uploads/2015/07/upG4Vsg-1400x600.jpg');
+background-attachment:fixed;
+min-height:520px;
+margin-bottom:50px;
+font-size: 40px;
+font-style: italic
+}
+.jumbotron h1{
+	text-align: left;
+	color: #FF0000;
+}
+.jumbotron p {
+	color: #FFFAFA;
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+.btn-primary{
+	background-color: #FF0000;
+	font-size:20px;
+}
+#logoumbrella {
+	position: relative;
+	font-weight: 900;
+	bottom: 14px;
+	color: #FF0000;
+	text-decoration:none;
+}
+h1 {
+	text-align: center;
+	margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 40px;
+    font-weight: 700;
+}
+h2 {
+	font-weight: 700;
+
+}
+h3 {
+	font-size: 20px;
+}
+
+#produtos p{
+	font-size: 20px;
+	color:#777;
+	
+}
+#quemsomos {
+	background:#f7f7f7;
+	text-align: center;
+}
+
+#quemsomos p {
+	font-size: 20px;
+	text-align: justify;
+}
+#contato {
+min-height:400px;
+font-size: 20px;
+}
+footer {
+	background: #333;
+	color:#FFFAFA;
+	min-height: 150px;
+	text-decoration:none;
+	text-align: center;
+}
+footer a{
+	color:#FFFAFA;
+}
+
+#carousel-example-generic{
+    height: 365px;
+    position: relative;
+    width: 487px;
+    left: 300px;
+    padding-left: -8px;
+ }

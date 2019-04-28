@@ -1,0 +1,45 @@
+body {
+	background-color: #000000;
+}
+
+.jumbotron
+{
+background-image:url('http://residentevil.com.br/wp-content/uploads/2015/07/upG4Vsg-1400x600.jpg');
+background-attachment:fixed;
+min-height:565px;
+font-size: 40px;
+font-style: italic
+margin-bottom:50px;
+}
+.jumbotron h1{
+	text-align: left;
+	color: #FF0000;
+}
+.jumbotron p {
+	color: #FFFAFA;
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+.btn-primary{
+	background-color: #FF0000;
+	font-size:20px;
+}
+#logoumbrella {
+	position: relative;
+	font-weight: 900;
+	bottom: 14px;
+	right: 105px;
+	color: #FF0000;
+	text-decoration:none;
+}
+footer {
+	background: #333;
+	color:#FFFAFA;
+	min-height: 150px;
+	text-decoration:none;
+	text-align: center;
+}
+footer a{
+	color:#FFFAFA;
+}
